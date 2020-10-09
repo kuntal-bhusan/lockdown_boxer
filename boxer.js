@@ -135,9 +135,9 @@ function draw() {
       bbox_R.show();
 
       fill(0); textSize(20); strokeWeight(1);
-      text('Please stand infront of the camera in a well lighted environment', width / 2, height - 120);
+      text('Please stand infront of the camera in a well lighted environment', width / 2, height - 80);
       fill('red'); textSize(40); strokeWeight(1);
-      text('click to start', width / 2, height - 70);
+      text('click to start', width / 2, height - 40);
 
     }
     else{
