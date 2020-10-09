@@ -324,7 +324,7 @@ function draw() {
     textSize(50);
     text('Game Over', width / 2, height/8)
     text('Your Score = ' + score, width / 2, height / 2);
-    text('Total punches = ' + punch_count, width / 2, height - 160);
+    text('Total punches = ' + punch_count, width / 2, height - 130);
     fill('red');
 		text('click to play again', width / 2, height - 60);
     
