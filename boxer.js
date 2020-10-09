@@ -32,7 +32,7 @@ var hey = document.getElementById("hey");
 
 
 function setup() {
-  let cnv = createCanvas(640, 480);
+  let cnv = createCanvas(640, 380);
   cnv.position(300, 100);
 
   background(256);
