@@ -33,7 +33,7 @@ var hey = document.getElementById("hey");
 
 function setup() {
   let cnv = createCanvas(640, 480);
-  cnv.position(450, 150);
+  cnv.position(300, 100);
 
   background(256);
   //frameRate(10);
